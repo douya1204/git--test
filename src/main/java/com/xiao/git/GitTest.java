@@ -16,5 +16,6 @@ public class GitTest {
         System.out.println("master test!");
         System.out.println("hot-fix test!");
         System.out.println("更改后重新推送 测试！");
+        System.out.println("拉取 测试！");
     }
 }
